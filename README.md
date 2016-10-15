@@ -37,7 +37,7 @@ API's:
 - [Pokémon API](http://pokeapi.co/)
 - [Programmable Web API's](http://www.programmableweb.com/apis) - /thread (though keep going, this is fun)
 - [Programmers API](http://thetvdb.com/wiki/index.php?title=Programmers_API) - TV Show Info
-- [Realtime API] (https://developers.google.com/google-apps/realtime/overview) Google's realtime API using Google Drive
+- [Realtime API] (https://developers.google.com/google-apps/realtime/overview) - Google's realtime API using Google Drive
 - [Reddit](https://www.reddit.com/dev/api)
 - [Riot Games](https://developer.riotgames.com/)
 - [Slack](https://api.slack.com/web)
