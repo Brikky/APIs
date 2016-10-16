@@ -35,7 +35,7 @@ API's:
 - [Nutritionix](http://www.nutritionix.com/business/api) - Nutrition DB
 - [Open Weather Map](http://openweathermap.org/) - yet more weather
 - [Pokémon API](http://pokeapi.co/)
-- [Programmable Web API's](http://www.programmableweb.com/apis) - /thread (though keep going, this is fun)
+- [Programmable Web API's](http://www.programmableweb.com/apis) 
 - [Programmers API](http://thetvdb.com/wiki/index.php?title=Programmers_API) - TV Show Info
 - [Realtime API] (https://developers.google.com/google-apps/realtime/overview) - Google's realtime API using Google Drive
 - [Reddit](https://www.reddit.com/dev/api)
