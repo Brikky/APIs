@@ -40,6 +40,7 @@ API's:
 - [Realtime API] (https://developers.google.com/google-apps/realtime/overview) - Google's realtime API using Google Drive
 - [Reddit](https://www.reddit.com/dev/api)
 - [Riot Games](https://developer.riotgames.com/)
+- [Screenshot Layer](https://screenshotlayer.com/) - Capture highly customizable snapshots of any website
 - [Slack](https://api.slack.com/web)
 - [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
 - [Spotify](https://developer.spotify.com/web-api/)
